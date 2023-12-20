@@ -1,0 +1,6 @@
+/Users/thomasfieber/Projects/RiderProjects/MiniDump/MiniDump/bin/x64/Release/MiniDump.exe
+/Users/thomasfieber/Projects/RiderProjects/MiniDump/MiniDump/bin/x64/Release/MiniDump.pdb
+/Users/thomasfieber/Projects/RiderProjects/MiniDump/MiniDump/obj/x64/Release/MiniDump.csproj.AssemblyReference.cache
+/Users/thomasfieber/Projects/RiderProjects/MiniDump/MiniDump/obj/x64/Release/MiniDump.csproj.CoreCompileInputs.cache
+/Users/thomasfieber/Projects/RiderProjects/MiniDump/MiniDump/obj/x64/Release/MiniDump.exe
+/Users/thomasfieber/Projects/RiderProjects/MiniDump/MiniDump/obj/x64/Release/MiniDump.pdb
